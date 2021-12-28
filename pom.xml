@@ -97,14 +97,14 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Releases Nexus Repository</name>
-	      <url>http://10.128.0.3:8081/repository/BMO-release/</url>
+	      <url>http://10.128.0.9:1500/repository/BMO-releases/</url>
 	    </repository>
 		
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Snapshot Nexus Repository </name>
-	      <url>http://10.128.0.3:8081/repository/BMO-Snapshot/</url>
+	      <url>http://10.128.0.9:1500/repository/BMO-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
